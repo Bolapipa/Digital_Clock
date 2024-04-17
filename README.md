@@ -3,6 +3,6 @@
 
 
 
-*Imagem do Relógio finalizado*
+**Imagem do Relógio finalizado**
 
 ![Print Relógio](clock.png)
