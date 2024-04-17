@@ -3,7 +3,7 @@
 
  Fiz esse pequeno projeto assistindo um vídeo para me auxiliar nas dúvidas.
 
-**Link do Relógio abaixo:**
+**Link do Relógio:**
  https://bolapipa.github.io/Digital_Clock/
 
 
