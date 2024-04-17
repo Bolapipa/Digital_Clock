@@ -1,4 +1,4 @@
-# Digital_Clock
+# Digital_Clock :watch:
  Meu Primeiro Relógio Digital
 
  Fiz esse pequeno projeto assistindo um vídeo para me auxiliar nas dúvidas.
